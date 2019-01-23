@@ -12,6 +12,7 @@
 		1CD9135821F8059F005E0401 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1CD9135621F8059F005E0401 /* Main.storyboard */; };
 		1CD9135A21F805A1005E0401 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1CD9135921F805A1005E0401 /* Assets.xcassets */; };
 		1CD9135D21F805A1005E0401 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1CD9135B21F805A1005E0401 /* LaunchScreen.storyboard */; };
+		1CD9136521F80DA8005E0401 /* CustomScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CD9136421F80DA8005E0401 /* CustomScene.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1CD9135921F805A1005E0401 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1CD9135C21F805A1005E0401 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1CD9135E21F805A1005E0401 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1CD9136421F80DA8005E0401 /* CustomScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomScene.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				1CD9135221F8059F005E0401 /* AppDelegate.swift */,
 				1CD9135421F8059F005E0401 /* ViewController.swift */,
 				1CD9135621F8059F005E0401 /* Main.storyboard */,
+				1CD9136421F80DA8005E0401 /* CustomScene.swift */,
 				1CD9135921F805A1005E0401 /* Assets.xcassets */,
 				1CD9135B21F805A1005E0401 /* LaunchScreen.storyboard */,
 				1CD9135E21F805A1005E0401 /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				1CD9135521F8059F005E0401 /* ViewController.swift in Sources */,
 				1CD9135321F8059F005E0401 /* AppDelegate.swift in Sources */,
+				1CD9136521F80DA8005E0401 /* CustomScene.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
